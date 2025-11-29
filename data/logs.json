@@ -1,0 +1,17 @@
+[
+  {
+    "question": "hey",
+    "answer": "I can help you with information about Ztake's products:\n  \n• **Payouts** - Instant money transfers via IMPS, NEFT, RTGS, UPI\n• **UPI Collection** - Accept payments with high success rates\n• **Verification Stack** - KYC, Bank, PAN, Aadhaar verification\n• **Bill Payments** - 25+ categories of bill payments\n\nFor detailed documentation, visit https://docs.ztake.in\nNeed support? Email support@ztake.in",
+    "ts": "2025-11-29T19:01:27.126Z"
+  },
+  {
+    "question": "payouts",
+    "answer": "Ztake Payouts enables instant money transfers via IMPS (24/7, up to ₹5L), NEFT, RTGS (₹2L+), and UPI. We support bulk payouts with real-time status updates via webhooks. Pricing starts at ₹2 per transaction.",
+    "ts": "2025-11-29T19:01:35.191Z"
+  },
+  {
+    "question": "so how can we integrate payouts",
+    "answer": "Ztake Payouts enables instant money transfers via IMPS (24/7, up to ₹5L), NEFT, RTGS (₹2L+), and UPI. We support bulk payouts with real-time status updates via webhooks. Pricing starts at ₹2 per transaction.",
+    "ts": "2025-11-29T19:01:51.911Z"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "prod-1-upi",
+    "title": "UPI Collect - Prod KB",
+    "source": "synth",
+    "text": "UPI collect flows, deep link, API-based collect, webhook handling, reconciliation."
+  },
+  {
+    "id": "prod-2-va",
+    "title": "Virtual Account - Prod KB",
+    "source": "synth",
+    "text": "Virtual accounts collection, reconciliation and settlement handling."
+  },
+  {
+    "id": "prod-3-webhooks",
+    "title": "Webhooks - Prod KB",
+    "source": "synth",
+    "text": "Signature verification, idempotency, retries, and best practices."
+  }
+]
