@@ -1,0 +1,3 @@
+# How AI Routing Improves Payment Success Rates
+
+AI routing reduces failures...

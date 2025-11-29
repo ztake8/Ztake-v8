@@ -1,0 +1,3 @@
+# Top 10 Payment Gateway Trends in India (2025)
+
+India’s payment ecosystem is rapidly evolving... 

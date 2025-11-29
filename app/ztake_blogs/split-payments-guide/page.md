@@ -1,0 +1,3 @@
+# Understanding Split Payments for Marketplaces
+
+Multi-seller marketplaces depend on split payments...

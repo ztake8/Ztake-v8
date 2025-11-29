@@ -1,0 +1,3 @@
+# Why Education Institutions Need Payment Gateways
+
+Schools and EdTech need structured fee flows...

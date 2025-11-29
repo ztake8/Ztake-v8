@@ -1,0 +1,3 @@
+# How Payout Gateways Improve Gaming User Trust
+
+Instant payouts build trust...

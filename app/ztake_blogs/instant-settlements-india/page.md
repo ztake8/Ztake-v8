@@ -1,0 +1,3 @@
+# How Instant Settlements Are Changing Businesses
+
+Instant settlement improves cash flow...

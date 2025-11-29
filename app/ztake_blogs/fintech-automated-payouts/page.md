@@ -1,0 +1,3 @@
+# How Fintech Apps Use Automated Payouts
+
+Payout automation helps fintech scale...

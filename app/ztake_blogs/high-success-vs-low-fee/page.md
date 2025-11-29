@@ -1,0 +1,3 @@
+# Why High Success Rate Matters More Than Low Fees
+
+A low fee is useless if payments fail...

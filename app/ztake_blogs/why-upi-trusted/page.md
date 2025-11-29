@@ -1,0 +1,3 @@
+# Why UPI Is the Most Trusted Method in India
+
+UPI adoption is skyrocketing...
